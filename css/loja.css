@@ -1,0 +1,30 @@
+body{
+	padding-top: 50px;
+}
+.principal{
+	padding:40px 15px;
+	text-align: center;
+}
+
+.table-hover > tbody > tr:hover {
+	background-color:  ;
+	color:black;
+}
+#fornecedorForm .form-control-feedback {
+	right: 15px;
+
+}
+#fornecedorForm .selectContainer .form-control-feedback {
+	right: 25px;
+}
+
+#fornecedorForm .selectContainer .form-control {
+	right: 25px;
+}
+
+.form-group{
+	text-align: left;
+
+
+}
+
